@@ -12,9 +12,17 @@ driver.find_element_by_name("q").click()
 driver.find_element_by_name("q").clear()
 driver.find_element_by_name("q").send_keys("USA")
 driver.find_element_by_name(name="btnK").click()
-
+print("Test done")
 driver.close()
 driver.quit()
 
-print("Test done")
+print("Браузер ту ту ")
+
+
+print("Браузер ту ту ")
+
+print("Браузер ту ту ")
+
+
+print("Браузер ту ту ")
 
