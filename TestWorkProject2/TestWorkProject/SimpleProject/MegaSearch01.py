@@ -31,4 +31,4 @@ class GoogleSearch01(unittest.TestCase):
         print("Test done")
 
 if __name__ == '__main__':
-    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='C:/Users/karmazin/Documents/GitHub/TestWorkProject/reports'))
+    unittest.main(testRunner=HtmlTestRunner.HTMLTestRunner(output='TestWorkProject2/TestWorkProject/reports'))

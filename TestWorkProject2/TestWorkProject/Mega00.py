@@ -7,8 +7,10 @@ time.sleep(5) # Let the user actually see something!
 print("Test done")
 
 driver.quit()
-
-
+print("Браузер тю тю ")
+print("Браузер тю тю ")
+print("Браузер тю тю ")
+print("Браузер тю тю ")
 
 
 
