@@ -4,7 +4,7 @@ import pytest
 class TestOrange():
     @pytest.fixture()
     def test_setup(self):
-        self.driver = webdriver.Chrome('C:/Tools/chromedriver')  # Optional argument, if not specified will search path.
+        self.driver = webdriver.Ie()  # Optional argument, if not specified will search path.
         self.driver.implicitly_wait(10)
         self.driver.maximize_window()
         yield
