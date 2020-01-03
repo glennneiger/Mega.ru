@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5df0e66a-3dcb-442c-a7b3-15de65a87393" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Pytest/geckodriver.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytest/test_SempleChrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytest/test_SempleChromeFixtureFix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytest/test_SempleFireFox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pytest/test_SempleIE.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Python_Cours/Basic_syntaxsys/011 variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_Python_Cours/Basic_syntaxsys/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pytest/test_Semple2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytest/test_Semple2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pytest/test_SempleChromeFixtureFix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pytest/test_SempleChromeFixtureFix.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

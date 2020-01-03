@@ -7,6 +7,8 @@ import pytest
 def driver_init(request):
     driver = webdriver.Chrome()
     request.cls.driver = driver
+    driver.implicitly_wait(10)
+    driver.maximize_window()
     yield
     driver.close()
     print("Browser closed")
